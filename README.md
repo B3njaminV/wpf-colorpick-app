@@ -4,6 +4,7 @@
 
 ### 🏠 [Homepage](https://github.com/B3njaminV/wpf-colorpick-app)
 
+![colorpick](colorpick.png)
 
 ## 📍 Prerequires
 
